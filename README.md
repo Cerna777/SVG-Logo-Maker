@@ -24,7 +24,7 @@ Watch the demo video [here](#) (https://drive.google.com/file/d/1WfHgHotngHMgBWC
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Cerna777/SVG-Logo-Maker
    ```bash
    git clone 
    
